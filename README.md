@@ -1,15 +1,14 @@
 Hi there 👋, Vlad here.
 
-I'm an engineer and I live in Cluj-Napoca, Romania.
-🏔 I like reading, hiking, travelling, preparing bbqs for my dear ones and since my 16s programming is one of my hobbies.
-
-🔭 Currently I'm a collaborator at _@7code company_ where I'm working on projects with the following technologies: `WordPress`, `Laravel`, `NodeJS`, `NestJS`, `ReactJS`, `jQuery`, `SQL`, `Shell`, `JSON`, `AJAX`, `RESTful APIs`, `PHPUnit`, `Payment Gateways`.
-
-🇷🇴 I'm a WordPress translator at [WP-Translations.PRO](https://wp-translations.pro) and General Translation Editor at [WordPress](https://make.wordpress.org/polyglots).
-
+I'm an engineer and I live in Cluj-Napoca, Romania.  
+🏔 I like reading, hiking, travelling, preparing bbqs for my dear ones and since my 16s programming is one of my hobbies.  
+🔭 Currently I'm a collaborator at _@7code company_ where I'm working on projects with the following technologies: `WordPress`, `Laravel`, `NodeJS`, `NestJS`, `ReactJS`, `jQuery`, `SQL`, `Shell`, `JSON`, `AJAX`, `RESTful APIs`, `PHPUnit`, `Payment Gateways`.  
+🇷🇴 I'm a WordPress translator at [WP-Translations.PRO](https://wp-translations.pro) and General Translation Editor at [WordPress](https://make.wordpress.org/polyglots).  
 👨🏼‍💻 I’m looking to collaborate on projects on long term especially with `WordPress` or `NestJS`.
 
-🌱 These pandemic days I'm learning some things about `JavaScript` from [javascript.info](https://javascript.info)
+These pandemic days...  
+💻 I'm learning some things about `JavaScript` from [javascript.info](https://javascript.info)  
+📖 I'm reading [Dragă inimă](https://www.goodreads.com/book/show/55855855-drag-inim) by Vasi Rădulescu and a [few more books](https://www.goodreads.com/review/list/68128050?shelf=currently-reading).
 
 💬 Ask me anything about `WordPress`.
 
