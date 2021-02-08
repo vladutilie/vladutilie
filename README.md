@@ -1,7 +1,6 @@
 Hi there 👋, Vlad here.
 
 I'm an engineer and I live in Cluj-Napoca, Romania.
-
 🏔 I like reading, hiking, travelling, preparing bbqs for my dear ones and since my 16s programming is one of my hobbies.
 
 🔭 Currently I'm a collaborator at _@7code company_ where I'm working on projects with the following technologies: `WordPress`, `Laravel`, `NodeJS`, `NestJS`, `ReactJS`, `jQuery`, `SQL`, `Shell`, `JSON`, `AJAX`, `RESTful APIs`, `PHPUnit`, `Payment Gateways`.
