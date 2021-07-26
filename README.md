@@ -2,9 +2,10 @@
 
 I'm an engineer and I live in Cluj-Napoca, Romania.  
 🏔 I like reading, hiking, travelling, preparing bbqs for my dear ones and since my 16s programming is one of my hobbies.  
-🔭 Currently I'm a collaborator at _@7code company_ where I'm working on projects with the following technologies: `WordPress`, `Laravel`, `NodeJS`, `NestJS`, `ReactJS`, `jQuery`, `SQL`, `Shell`, `JSON`, `AJAX`, `RESTful APIs`, `PHPUnit`, `Payment Gateways`.  
+🔭 Currently I'm freelancing at _my own company_ where I work on projects mainly with `WordPress`, `Vanilla JavaScript`, `ReactJS`, `jQuery`, `SQL`, `Shell`, `JSON`, `AJAX`, `RESTful APIs`, `PHPUnit`.
+Other technologies I worked with are `Laravel`, `NodeJS`, `NestJS` and some `Payment Gateways` implementations with `NestJS`.  
 🇷🇴 I'm WordPress translator at [WP-Translations.PRO](https://wp-translations.pro) and General Translation Editor at [WordPress](https://make.wordpress.org/polyglots).  
-👨🏼‍💻 I’m looking to collaborate on projects for long term especially with `WordPress` or `NestJS`.
+👨🏼‍💻 I'm looking to collaborate on projects for long term especially with `WordPress` or `NestJS`.
 
 These pandemic days...  
 💻 I'm learning some things about `JavaScript` on [javascript.info](https://javascript.info)  
