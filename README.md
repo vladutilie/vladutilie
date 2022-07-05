@@ -1,20 +1,20 @@
 #### Hi there 👋, Vlad here.
 
-I'm an engineer and I live in Cluj-Napoca, Romania.  
-🏔 I like reading, hiking, travelling, preparing bbqs for my dear ones and since my 16s programming is one of my hobbies.  
+I'm a Software Engineer and I live in Cluj-Napoca, Romania.  
+🏔 I like reading, hiking, travelling, preparing bbqs for my dear ones, puzzles and since my 16s programming is one of my hobbies.  
 🔭 Currently I'm freelancing at _my own company_ where I work on projects mainly with `TypeScript`, `NextJS`, `NestJS`, `Neo4j`, `WordPress` and `PHP`.  
 
-🇷🇴 I'm WordPress translator at [WP-Translations.PRO](https://wp-translations.pro) and General Translation Editor at [WordPress](https://make.wordpress.org/polyglots).  
-👨🏼‍💻 I'm looking to collaborate on projects for long term especially with `NestJS`, `Neo4j` or `WordPress`.
+🇷🇴 I'm a WordPress translator at [WP-Translations.PRO](https://wp-translations.pro) and General Translation Editor at [WordPress](https://make.wordpress.org/polyglots).  
+👨🏼‍💻 I'm looking to collaborate on projects for long term especially with `NestJS`, `NodeJS`, `NextJS` and/or `Neo4j`.
 
 These days...  
-💻 I'm learning some things about `JavaScript` on [javascript.info](https://javascript.info)  
+💻 I'm learning some things about `Neo4j` and [`JavaScript`](https://javascript.info)  
 📖 I'm reading [some Seneca's books]([https://www.goodreads.com/book/show/55855855-drag-inim](https://www.goodreads.com/book/show/23161695-alt-timp-nu-am-despre-scurtimea-vie-ii-despre-via-a-fericit)) and a [few more](https://www.goodreads.com/review/list/68128050?shelf=currently-reading).
 
 💬 Ask me anything about `WordPress`.
 
 #### Some of my newest projects
-[BookTruck](https://booktruck.ro) | [ContaDocs](https://contadocs.ro) | [TransilvaniaCar](https://transilvaniacar.com) | [E-BikeRent](https://e-bikerent.ro)
+[E-BikeRent](https://e-bikerent.ro) | [GraphStars](https://graphstars.com) | [BookTruck](https://booktruck.ro) | [ContaDocs](https://contadocs.ro) | [TransilvaniaCar](https://transilvaniacar.com)
 
 📫 You can reach me by email at `${hello} @ ${vladilie.ro}`.
 
