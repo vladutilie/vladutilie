@@ -9,7 +9,8 @@ I'm a Software Engineer and I live in Cluj-Napoca, Romania.
 
 These days...  
 💻 I'm learning some things about `Neo4j` and [`JavaScript`](https://javascript.info)  
-📖 I'm reading [some Seneca's books]([https://www.goodreads.com/book/show/55855855-drag-inim](https://www.goodreads.com/book/show/23161695-alt-timp-nu-am-despre-scurtimea-vie-ii-despre-via-a-fericit)) and a [few more](https://www.goodreads.com/review/list/68128050?shelf=currently-reading).
+📖 I'm reading "[The Intelligent Investor](https://www.goodreads.com/book/show/106835.The_Intelligent_Investor)" by Benjamin Graham
+ and a [few more](https://www.goodreads.com/review/list/68128050?shelf=currently-reading).
 
 💬 Ask me anything about `WordPress`.
 
