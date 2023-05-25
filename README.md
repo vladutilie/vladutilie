@@ -2,7 +2,9 @@
 
 I'm a Software Engineer and I live in Cluj-Napoca, Romania.  
 🏔 I like reading, hiking, traveling, preparing BBQs for my dear ones, and puzzles, and since my 16s programming is one of my hobbies.  
-🔭 Currently I'm freelancing at _my own company_ where I work on projects mainly with `Node`, `Express`, `TypeScript`, `NextJS`, `NestJS`, `Neo4j`, `MongoDB`, `MySQL`, `PostgreSQL`, `SQLite`, `WordPress` and `PHP`.  
+🔭 Currently I'm freelancing at _my own company_ where I work on projects mainly with (not in a specific order) `Node`, `Express`, `TypeScript`, `NextJS`, `ReactJS`, `NestJS`, `Neo4j`, `MongoDB`, `MySQL`, `PostgreSQL`, `SQLite`, `WordPress` and `PHP`.  
+❤️‍🔥 I like `NextJS` and `TailwindCSS` (below there are some projects built with these technologies) and use solutions like Supabase, Prisma, and Vercel very often.
+I also have a released library ([euplatesc](https://www.npmjs.com/package/euplatesc)) on npmjs.org.
 
 🇷🇴 I'm a WordPress translator at [WP-Translations.PRO](https://wp-translations.pro) and General Translation Editor at [WordPress](https://make.wordpress.org/polyglots).  
 👨🏼‍💻 I'm looking to collaborate on projects for the long term, especially with `JavaScript` technologies and/or `Neo4j`.
@@ -15,12 +17,12 @@ These days...
 💬 Ask me anything about `WordPress`.
 
 #### Some of my newest projects:
-[E-BikeRent](https://e-bikerent.ro) | [GraphStars](https://graphstars.com) | [BookTruck](https://booktruck.ro) | [ContaDocs](https://contadocs.ro) | [TransilvaniaCar](https://transilvaniacar.com)
+[TEDxZorilor](https://tedxzorilor.com) | [E-BikeRent](https://e-bikerent.ro) | [GraphStars](https://graphstars.com) | [BookTruck](https://booktruck.ro) | [ContaDocs](https://contadocs.ro) | [TransilvaniaCar](https://transilvaniacar.com)
 
 📫 You can reach me by email at `${hello} @ ${vladilie.ro}`.
 
 #### Also you can follow me on these links:
-[My website](https://vladilie.ro) | [WordPress](https://profiles.wordpress.org/vladwtz) | [Twitter](https://twitter.com/vladilie94) | [LinkedIn](https://www.linkedin.com/in/vladilie/) | [Polywork](https://www.polywork.com/vladilie) | [Instagram](https://instagram.com/vladilie.ro). 
+[My website](https://vladilie.ro) | [Polywork](https://www.polywork.com/vladilie) | [Twitter](https://twitter.com/vladilie94) | [LinkedIn](https://www.linkedin.com/in/vladilie/) | [WordPress](https://profiles.wordpress.org/vladwtz) | [Instagram](https://instagram.com/vladilie.ro). 
 
 #### Here are some stats about my GitHub activity:
 <a href = "https://github.com/vladutilie?tab=repositories">
