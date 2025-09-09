@@ -19,7 +19,7 @@ These days...
 💬 Ask me anything about `WordPress`.
 
 #### Some of my newest projects:
-[TEDxZorilor](https://tedxzorilor.com) | [E-BikeRent](https://e-bikerent.ro) | [GraphStars](https://graphstars.com) | [BookTruck](https://booktruck.ro) | [ContaDocs](https://contadocs.ro) | [TransilvaniaCar](https://transilvaniacar.com)
+[TEDxZorilor](https://tedxzorilor.com) | [E-BikeRent](https://e-bikerent.ro) | [Abarai](https://abarai.ro) | [BookTruck](https://booktruck.ro) | [ContaDocs](https://contadocs.ro) | [TransilvaniaCar](https://transilvaniacar.com)
 
 📫 You can reach me by email at `${hello} @ ${vladilie.ro}`.
 
