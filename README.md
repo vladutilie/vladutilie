@@ -36,7 +36,7 @@ I'm a full-stack developer with 9+ years of experience, based in Cluj-Napoca, Ro
 | [Măslinescu](https://maslinescu.ro) | WooCommerce olive oil store: 13,000+ migrated orders, Grafana + Loki observability |
 | [e-BikeRent](https://e-bikerent.ro) | Electric bike rental platform (Next.js + Supabase) |
 | [TransilvaniaCar](https://transilvaniacar.com) | Car rental site, rebuilt from WordPress to custom Next.js |
-| [ContaDocs](https://contadocs.ro) | Document collection platform for accountants, backed by Google Drive |
+| [Abarai](https://abarai.ro) | Crypto marketplace and resources |
 
 #### 📦 Open source
 
@@ -51,7 +51,7 @@ I'm a full-stack developer with 9+ years of experience, based in Cluj-Napoca, Ro
 - Volunteer software engineer at [Cărțile pe față](https://cartilepefata.ro), an NGO fighting functional illiteracy in rural Romania
 
 #### 📖 Reading
-Currently reading: "[The Intelligent Investor](https://www.goodreads.com/book/show/106835.The_Intelligent_Investor)" by Benjamin Graham and a [few more](https://www.goodreads.com/review/list/68128050?shelf=currently-reading).
+Currently reading [on Goodreads](https://www.goodreads.com/review/list/68128050?shelf=currently-reading).
 
 📫 You can reach me by email at `${hello} @ ${vladilie.ro}`.
 
